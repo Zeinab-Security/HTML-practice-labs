@@ -17,6 +17,7 @@ A collection of HTML practice labs completed as part of my self-directed learnin
 | [Mr. Whiskers' Blog](./Mr.-Whishers%27-blog) | A blog page using semantic HTML: `<header>`, `<nav>`, `<main>`, `<article>`, and `<footer>` |
 | [Responsive Donation Form](./responsive-donation-form) | A simple donation form with name, email, amount, and newsletter subscription fields |
 | [Accessible Audio Controller](./accessible-audio-controller) | An accessible audio player page using HTML and ARIA attributes to enhance screen reader accessibility. |
+| [Checkout Page](./checkout-page) | An accessible checkout form with `<section>`, required fields, and `aria-*` attributes for screen readers |
 
 ## About
 
