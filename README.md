@@ -19,6 +19,7 @@ A collection of HTML practice labs completed as part of my self-directed learnin
 | [Accessible Audio Controller](./accessible-audio-controller) | An accessible audio player page using HTML and ARIA attributes to enhance screen reader accessibility. |
 | [Checkout Page](./checkout-page) | An accessible checkout form with `<section>`, required fields, and `aria-*` attributes for screen readers |
 | [Movie Review Page](./movie-review-page) | A movie review page displaying a title, cover image, description, star rating, and cast list using semantic HTML |
+| [Multimedia Player](./multimedia-player) | A multimedia player page with an audio track, a video with subtitles, and a collapsible transcript section |
 
 ## About
 
